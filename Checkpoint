@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Checkpoint – Segurança para suas compras online</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; color: #333; }
+    header { background-color: #2f3e9e; color: white; padding: 40px 20px; text-align: center; }
+    header h1 { margin: 0; font-size: 2em; }
+    header p { margin-top: 10px; font-size: 1.2em; }
+    section { padding: 40px 20px; max-width: 900px; margin: auto; background: white; margin-top: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+    h2 { color: #2f3e9e; }
+    ul { padding-left: 20px; }
+    .cta { text-align: center; margin-top: 30px; }
+    .cta a { background-color: #2f3e9e; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-size: 1.1em; }
+    footer { text-align: center; padding: 20px; font-size: 0.9em; color: #888; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Checkpoint</h1>
+    <p>Proteção inteligente para suas compras online</p>
+  </header>
+
+  <section>
+    <h2>Por que usar o Checkpoint?</h2>
+    <p>Todos os dias, milhares de pessoas – especialmente idosos – caem em golpes ao comprar online. O Checkpoint surgiu para mudar isso. Nossa missão é garantir segurança, autonomia e educação digital para consumidores de todas as idades, com foco no público 60+.</p>
+  </section>
+
+  <section>
+    <h2>O que oferecemos:</h2>
+    <ul>
+      <li>Alertas em tempo real contra sites fraudulentos</li>
+      <li>Lista validada de e-commerces confiáveis</li>
+      <li>Conteúdo educativo simplificado</li>
+      <li>Integração com Serasa, Reclame Aqui e Consumidor.gov</li>
+      <li>Interface acessível para o público sênior</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Como funciona?</h2>
+    <p>Com um clique, o Checkpoint avalia a segurança do site acessado e informa se é seguro continuar. Também oferece dicas simples sobre direitos do consumidor, privacidade e devoluções.</p>
+  </section>
+
+  <section class="cta">
+    <h2>Seja um dos primeiros a experimentar</h2>
+    <p><a href="#">Quero conhecer o app</a></p>
+  </section>
+
+  <footer>
+    © 2025 Checkpoint – Um projeto por Dágila Martins. Todos os direitos reservados.
+  </footer>
+</body>
+</html>
